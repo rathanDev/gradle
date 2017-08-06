@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="android-sdk-linux">
+    <CLASSES>
+      <root url="file://$USER_HOME$/installs/android-sdk-linux" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-15/docs/effects_apis" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-15/docs/maps_apis" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-16/docs/effects_apis" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-16/docs/maps_apis" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-17/docs/effects_apis" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-17/docs/maps_apis" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-18/docs/effects_apis" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-18/docs/maps_apis" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-19/docs/effects_apis" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-19/docs/maps_apis" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-21-1/docs/effects_apis" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-21-1/docs/maps_apis" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-21/docs/effects_apis" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-21/docs/maps_apis" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-22/docs/effects_apis" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-22/docs/maps_apis" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-23/docs/effects_apis" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-23/docs/maps_apis" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-15/samples/MapsDemo/src" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-16/samples/MapsDemo/src" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-17/samples/MapsDemo/src" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/add-ons/addon-google_apis-google-18/samples/MapsDemo/src" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/sources/android-19" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/tools/apps/SdkController/src" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/tools/proguard/examples/annotations/examples" />
+      <root url="file://$USER_HOME$/installs/android-sdk-linux/tools/proguard/examples/annotations/src" />
+    </SOURCES>
+  </library>
+</component>
