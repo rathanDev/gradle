@@ -9,8 +9,11 @@ import static junit.framework.Assert.assertTrue;
  * @author jana, @date 8/5/17 10:59 PM
  */
 public class LibraryTest {
-    @Test public void testSomeLibraryMethod() {
+
+    @Test
+    public void testSomeLibraryMethod() {
         Library classUnderTest = new Library();
         assertTrue("someLibraryMethod should return 'true'", classUnderTest.someLibraryMethod());
     }
+
 }
