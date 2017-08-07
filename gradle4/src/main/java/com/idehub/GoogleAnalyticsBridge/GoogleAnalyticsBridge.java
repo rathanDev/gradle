@@ -67,6 +67,13 @@ public class GoogleAnalyticsBridge extends ReactContextBaseJavaModule {
     }
 
     @ReactMethod
+    public void createSession(String _trackerId, String screenName) {
+        Tracker tracker = getTracker(_trackerId);
+        tracker.setScreenName(screenName);
+        tracker.send(new HitBuilders.ScreenViewBuilder().setNewSession().build());
+    }
+
+    @ReactMethod
     public void trackEvent(String trackerId, String category, String action, ReadableMap optionalValues){
         Tracker tracker = getTracker(trackerId);
 
